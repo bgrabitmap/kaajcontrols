@@ -1,3 +1,4 @@
+# Not maintained anymore, please use bgracontrols 
 # kaajcontrols
 fpGUI and BGRABitmap controls.
 # License
